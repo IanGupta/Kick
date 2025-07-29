@@ -18,7 +18,7 @@ Whether you want the privacy of a local AI running on your own machine or the ra
 * ⚙️ **Deep System Control**: Unlock an optional advanced mode to grant Kick permission to manage files, run commands, and modify system settings for the ultimate automation experience.
 * 🧠 **Flexible AI Support**: You're in control of the brain. Choose between:
     * **🏠 Local Models (Ollama)** for maximum privacy and offline use.
-    * **🌐 Cloud APIs (OpenAI & Gemini)** to harness the power of world-class models like GPT-4o and Gemini 1.5 Pro.
+    * **🌐 Cloud APIs (OpenAI & Gemini)** to harness the power of world-class models like GPT-4o and Gemini 2.5 Pro.
 * 🔊 **High-Quality Voice Feedback**: Hear confirmations and updates in a natural, high-quality voice, making your interactions feel more like a conversation.
 * 📊 **Improvement Focused**: Opt-in to a feedback program that uses anonymized data and local screen recordings to help make Kick better for everyone.
 

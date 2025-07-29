@@ -36,6 +36,8 @@ Get up and running with Kick in just a few minutes.
 
 3.  **Launch Kick!**
     * Once installed, Kick will be running in your system tray. You can start using it immediately by saying **"Hey Kick"** or pressing **`Ctrl+Shift+Q`**.
+  
+Source files can be found at https://github.com/IanGupta/Kick/releases/tag/Backend.
 
 ## ❓ FAQ & Common Questions
 
